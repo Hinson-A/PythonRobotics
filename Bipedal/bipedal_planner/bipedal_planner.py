@@ -1,5 +1,5 @@
 """
-Bipedal Walking with modifying designated footsteps
+Bipedal Walking with modifying designate
 author: Takayuki Murooka (takayuki5168)
 """
 import numpy as np
