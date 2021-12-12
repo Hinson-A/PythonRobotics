@@ -218,7 +218,7 @@ def main():
     gx = 50.0  # [m]
     gy = 50.0  # [m]
     #地图上的每一格栅格大小
-    grid_size = 3  # [m]
+    grid_size = 2.0  # [m]
     #机器人的半径
     robot_radius = 0.5  # [m]
 
